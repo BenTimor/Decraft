@@ -1,0 +1,30 @@
+{
+  "name": "decraft",
+  "version": "1.0.0",
+  "description": "Crafting TypeScript decorators easily",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenTimor/Decraft.git"
+  },
+  "keywords": [
+    "decraft",
+    "typescript",
+    "decorators",
+    "javascript",
+    "annotations",
+    "functions"
+  ],
+  "author": "Ben Timor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenTimor/Decraft/issues"
+  },
+  "homepage": "https://github.com/BenTimor/Decraft#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
